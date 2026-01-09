@@ -26,7 +26,7 @@ namespace WindowsGSM.Plugins
             name = "WindowsGMS.Icarus",
             author = "BizakDaTroll",
             description = "WindowsGMS plugin for Icarus Dedicated Server",
-            version = "0.5",
+            version = "0.6",
             url = "https://github.com/BizakDaTroll/WindowsGSM",
             color = "#ffffff"
         };
